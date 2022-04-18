@@ -10,3 +10,7 @@
             <password>tomscript</password>
           </configuration>
         </plugin>
+
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCk7g1w/9mMtT0eZGx3IdWMHUQBQw4R67uByWXX0ANT8JnByrT/fDYRb/YgS1VolGmB9cKLUTK+2jXFLpbGeHX9PFc2Zv4nlgwmym+0zdCMiJnetZUYPbvGy7gpgSxK4ld2vOC8ofxvoOnIHBwDPK/e5+HefGJGYn/tV2VtxCSnfGNwiYMPnYCZQXz8ivS3V60zEv00odJKZ/M3KKZEpf4Ac5Y0Wa2Z1TDRLmYMEAkxwfkHEbUR2BSw0NgABGoDTYl6QCOiijoF1ykPtiF+aIxDroeDvrs1SkXFJ/68FkReQvjy0whKMngU9wbfZONyRZS/roJTFDLh5pz921Qqm1ZQO0Emii6vRuglyxNvlmlsHqjOQgtfS4sKPPLirvYkhQ7/kYNheteyt7xT1te49it+txQ0iPOfZHIAzFqRC11tAbdh0aCcW0gc0EkOLqioAOXdsF0YtoIdVFNQu//i9yWc4L+cGOcd/tEMph9UkrS15ikOKwFUuoRR+9tMavkh+kM= root@haley
